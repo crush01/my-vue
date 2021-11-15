@@ -12,6 +12,9 @@
       <router-link to="/flexible-use">
         flexible.js相关（移动端自适应）
       </router-link>
+      <router-link to="/sku-use">
+        商品规格相关
+      </router-link>
     </div>
   </div>
 </template>

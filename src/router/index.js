@@ -22,6 +22,11 @@ const routes = [
     path: '/flexible-use',
     name: 'flexibleUse',
     component: () => import('@/views/flexible-use')
+  },
+  {
+    path: '/sku-use',
+    name: 'sku',
+    component: () => import('@/views/sku-use')
   }
 ]
 
